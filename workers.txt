@@ -1,0 +1,5 @@
+Name Domain Salary
+Deepak Banking 10000
+Neha Telecom 8000
+Vijay Finance 11500
+Guru Migration 10000
