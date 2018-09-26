@@ -6,4 +6,3 @@
 5;fooclient;product A;10;100
 6;testclient;product B;1;200
 7;ccccccc;product C;2;300
-
